@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "name": "Toronto Trivia Night",
+    "date": "2024-02-07",
+    "time": "7:30 PM",
+    "address": "Brass Taps on College, 934 College Street Toronto",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F525056969%2F1070446658333%2F1%2Foriginal.20230530-105244?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C73%2C1920%2C960&s=d36d3f6b908bfbeb14649d6254cb1f15"
+  },
+  {
+    "id": "2",
+    "name": "NITRO FUNK @ BAR 404",
+    "date": "2024-02-02",
+    "time": "10:30 PM",
+    "address": "Bar 404 Toronto, 85 John Street #Level 1 Toronto",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F681296839%2F608881682973%2F1%2Foriginal.20240124-003804?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C876%2C2354%2C1177&s=bb5bbdf15c8e0885ebd1f3c9108ba908"
+  },
+  {
+    "id": "3",
+    "name": "Maneuver: Black History Celebration",
+    "date": "2024-02-03",
+    "time": "4:00 PM",
+    "address": "Holt Renfrew, 100 City Centre Drive Mississauga",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F678644389%2F1660002139293%2F1%2Foriginal.jpg?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=ea04dedd9b9c9ccccb11deaa58fc1742"
+  },
+  {
+    "id": "4",
+    "name": "Maneuver: Black History Celebration",
+    "date": "2024-02-03",
+    "time": "4:00 PM",
+    "address": "Holt Renfrew, 100 City Centre Drive Mississauga",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F678644389%2F1660002139293%2F1%2Foriginal.jpg?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=ea04dedd9b9c9ccccb11deaa58fc1742"
+  }
+]
