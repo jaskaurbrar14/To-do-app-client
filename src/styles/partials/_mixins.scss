@@ -18,8 +18,8 @@
   box-sizing: border-box;
 }
 
-@mixin page-width($margin) {
-  margin: $margin;
+@mixin page-width($padding) {
+  padding: $padding;
 }
 
 @mixin text($font-size, $font-weight, $line-height, $color) {
