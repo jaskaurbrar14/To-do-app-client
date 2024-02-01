@@ -2,33 +2,50 @@
   {
     "id": "1",
     "name": "Toronto Trivia Night",
-    "date": "2024-02-07",
-    "time": "7:30 PM",
+    "date": "2024-02-07 at 7:30 PM",
     "address": "Brass Taps on College, 934 College Street Toronto",
     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F525056969%2F1070446658333%2F1%2Foriginal.20230530-105244?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C73%2C1920%2C960&s=d36d3f6b908bfbeb14649d6254cb1f15"
   },
   {
     "id": "2",
-    "name": "NITRO FUNK @ BAR 404",
-    "date": "2024-02-02",
-    "time": "10:30 PM",
+    "name": "Nitro Funk @ Bar 404",
+    "date": "2024-02-02 at 10:30 PM",
     "address": "Bar 404 Toronto, 85 John Street #Level 1 Toronto",
     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F681296839%2F608881682973%2F1%2Foriginal.20240124-003804?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C876%2C2354%2C1177&s=bb5bbdf15c8e0885ebd1f3c9108ba908"
   },
   {
     "id": "3",
     "name": "Maneuver: Black History Celebration",
-    "date": "2024-02-03",
-    "time": "4:00 PM",
+    "date": "2024-02-03 at 4:00 PM",
     "address": "Holt Renfrew, 100 City Centre Drive Mississauga",
     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F678644389%2F1660002139293%2F1%2Foriginal.jpg?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=ea04dedd9b9c9ccccb11deaa58fc1742"
   },
   {
     "id": "4",
-    "name": "Maneuver: Black History Celebration",
-    "date": "2024-02-03",
-    "time": "4:00 PM",
-    "address": "Holt Renfrew, 100 City Centre Drive Mississauga",
-    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F678644389%2F1660002139293%2F1%2Foriginal.jpg?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=ea04dedd9b9c9ccccb11deaa58fc1742"
+    "name": "2024 Toronto Business Kick-Off",
+    "date": "2024-02-03 at 8:00 AM",
+    "address": "Beanfield Centre, 105 Princes' Boulevard 105 Princes' Blvd Toronto",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F648939729%2F1903271165153%2F1%2Foriginal.20231127-185347?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C0%2C1586%2C793&s=7043f35fc15d6125078568a173f855e8"
+  },
+  {
+    "id": "5",
+    "name": "Valentine's Taste-around",
+    "date": "2024-02-09 at 6:30 PM",
+    "address": "Eataly, 55 Bloor Street West Toronto",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F671661039%2F510139975733%2F1%2Foriginal.20240110-164845?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=6b23a9d6e29d552748b5859e4abbbc16"
+  },
+  {
+    "id": "6",
+    "name": "Toronto Caribanna 2024 Info On All The Hottest Pasties And Events",
+    "date": "2024-08-01 at 1:00 PM",
+    "address": "King Street, Toronto",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F134712035%2F1666035178%2F1%2Foriginal.png?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C22%2C900%2C450&s=f949588e419869479f3f20da48df1fa4"
+  },
+  {
+    "id": "8",
+    "name": "Art Battle Toronto Leap Year",
+    "date": "2024-02-29 at 7:30 PM",
+    "address": "The Great Hall, 1087 Queen St W Toronto",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F687030329%2F263333410230%2F1%2Foriginal.20240131-200622?w=940&auto=format%2Ccompress&q=75&sharp=10&s=6adcfdb70107d001acbb61a65f6e24c3"
   }
 ]

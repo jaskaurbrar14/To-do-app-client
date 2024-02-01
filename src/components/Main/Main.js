@@ -11,11 +11,20 @@ export default function Main() {
     // const previousIndex = events?.id;
     let randomIndex =
       eventData[Math.floor(Math.random() * (eventData.length - 1))];
-    // const foundEvent = eventData.find((event) => event.id === even);
+    // // const foundEvent = eventData.find((event) => event.id === even);
     setEvents(randomIndex);
     // const selectedEvent = eventData[_.random(eventData.length - 1)];
     // eventData.filter((event) => event.id !== selectedEvent);
     //  const selectedEvent = getRandomItem(eventData)
+
+    // let newEvent = eventData.forEach(
+    //   (event) => event.id === setEvents(event.id)
+    // // );
+    // let newEvent = "";
+    // for (let i = 0; i < eventData.length; i++) {
+    //   newEvent = eventData[i];
+    // }
+    // setEvents(newEvent);
   };
 
   return (
@@ -38,12 +47,17 @@ export default function Main() {
           src={events ? events.image : city}
           alt="To-do-app Logo"
         />
-        <p className="main__section-text">{events ? events.name : "Name"}</p>
-        <p className="main__section-text">{events ? events.date : "Date"}</p>
-        <p className="main__section-text">{events ? events.time : "time"}</p>
-        <p className="main__section-text">
-          {events ? events.adress : "Adress"}
-        </p>
+        <div className="main__section-text">
+          <p className="main__section-text-name">
+            {events
+              ? events.name
+              : "Welcome to Toronto, a city where culture and excitement intertwine! Immense yourself in lively Toronto International Film Festival, groove to teh beat at the Tornto Caribbean Carnival, and savor diverse flavors at the Tast eof Tornot food festival."}
+          </p>
+          <p className="main__section-text-date">{events ? events.date : ""}</p>
+          <p className="main__section-text-address">
+            {events ? events.address : ""}{" "}
+          </p>
+        </div>
       </section>
     </main>
   );
